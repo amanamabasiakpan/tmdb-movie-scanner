@@ -1,7 +1,7 @@
-```md
-<div align="center">
-  <h1>🎬 Movie Scanner</h1>
-  <p>Built with the help of <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> tutorial.</p>
+# 🎬 Movie Scanner
+
+<div>
+  <h3>Built with the help of <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> tutorial.</h3>
 </div>
 
 ---
@@ -23,12 +23,12 @@ It offers a **sleek and intuitive experience** for browsing and discovering movi
 
 ## 🔥 Features
 
-✔ **Browse All Movies** – Explore a vast collection of movies  
-✔ **Search Functionality** – Quickly find movies by name  
-✔ **Trending Movies Algorithm** – Displays popular movies dynamically  
-✔ **Modern UI/UX** – Sleek, dark-themed interface  
-✔ **Fully Responsive** – Works across all devices  
-✔ **Code Reusability** – Well-structured architecture for easy maintenance  
+- ✅ **Browse All Movies** – Explore a vast collection of movies  
+- 🔍 **Search Functionality** – Quickly find movies by name  
+- 📈 **Trending Movies Algorithm** – Displays popular movies dynamically  
+- 🎨 **Modern UI/UX** – Sleek, dark-themed interface  
+- 📱 **Fully Responsive** – Works across all devices  
+- ⚡ **Code Reusability** – Well-structured architecture for easy maintenance  
 
 ---
 
@@ -48,28 +48,27 @@ Ensure you have the following installed:
 
 ### **Installation Steps**
 
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/this-repository.git
-cd movie-scanner
-```
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/this-repository.git
+   cd movie-scanner
+   ```
 
-2️⃣ **Install dependencies**  
-```bash
-npm install
-```
+2. **Install dependencies**  
+   ```bash
+   npm install
+   ```
 
-3️⃣ **Set up environment variables**  
-Create a new `.env.local` file in the project root and add the following:
+3. **Set up environment variables**  
+   Create a new `.env.local` file in the project root and add the following:
 
-```env
-VITE_TMDB_API_KEY=
-
-VITE_APPWRITE_PROJECT_ID=
-VITE_APPWRITE_DATABASE_ID=
-VITE_APPWRITE_COLLECTION_ID=
-```
-> Replace the placeholder values with your actual **[TheMovieDatabase API](https://developer.themoviedb.org/reference/intro/getting-started)** and **[Appwrite](https://apwr.dev/)** credentials.
+   ```env
+   VITE_TMDB_API_KEY=
+   VITE_APPWRITE_PROJECT_ID=
+   VITE_APPWRITE_DATABASE_ID=
+   VITE_APPWRITE_COLLECTION_ID=
+   ```
+   > Replace the placeholder values with your actual **[TheMovieDatabase API](https://developer.themoviedb.org/reference/intro/getting-started)** and **[Appwrite](https://apwr.dev/)** credentials.
 
 ---
 
@@ -78,10 +77,12 @@ Start the development server:
 ```bash
 npm run dev
 ```
-
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
 
 ---
+
+## 🎥 **Live Demo**
+🔗 [View Demo](https://your-live-demo-link.com) _(Replace with actual link if available)_
 
 ---
 
@@ -90,5 +91,15 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 ---
 
-🚀 **Happy Coding!**
-```
+## 📜 **License**
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### 👨‍💻 **Follow Me**
+Stay connected for more projects:  
+[🔗 LinkedIn](https://linkedin.com/in/your-profile) | [🐦 Twitter](https://twitter.com/your-handle) | [📸 Instagram](https://instagram.com/your-handle)
+
+---
+
+🚀 **Happy Coding!** 🎉
